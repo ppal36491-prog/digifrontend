@@ -1,0 +1,756 @@
+{
+  "services": [
+    {
+    "id": "website-development",
+    "title": "Website Development",
+    "shortDesc": "Blazing-fast, conversion-tuned sites with modern stacks.",
+    "icon": "Globe",
+    "hue": 265,
+    "fullDescription": "An informative website is one of the most important digital assets for any business, organization, institution, startup, or personal brand in today’s modern online world. It is designed to provide complete, accurate, and engaging information to visitors about products, services, company background, achievements, goals, contact details, and many other important aspects of a business or brand. Unlike websites that focus mainly on direct selling or transactions, an informative website primarily focuses on educating users, building trust, increasing online visibility, and creating a professional identity on the internet. It acts as a digital brochure, communication platform, and branding tool that helps businesses connect with potential customers globally.\n\nWebsite designing for informative websites involves planning, structuring, and creating a user-friendly digital experience that presents information in a clean, organized, and visually appealing way. The process begins with understanding the client’s goals, business nature, target audience, competitors, and branding guidelines. Designers and developers work together to create layouts, wireframes, color schemes, typography, navigation structures, and responsive sections that provide a smooth browsing experience for users.\n\nAn informative website is highly beneficial for businesses because modern consumers prefer researching online before contacting a company or purchasing a service. A professionally designed informative website builds credibility and helps users understand the company’s expertise, experience, and values. It allows businesses to showcase services, portfolios, testimonials, case studies, blogs, team members, certifications, awards, and frequently asked questions in a structured and accessible manner.\n\nThe design of an informative website focuses heavily on usability and accessibility. Visitors should easily find the information they need without confusion or unnecessary complexity. Navigation menus, service sections, call-to-action buttons, image galleries, and contact forms are strategically placed to improve user interaction and engagement. A clean design with balanced white space, optimized images, and readable typography ensures visitors remain on the website longer and explore multiple pages.\n\nResponsive design is another critical aspect of informative website development. Today, users access websites through smartphones, tablets, laptops, and desktop computers with different screen sizes. A responsive informative website automatically adjusts its layout and content according to the device being used, ensuring a consistent and user-friendly experience across all platforms. Mobile responsiveness also improves search engine rankings and user satisfaction.\n\nSearch Engine Optimization (SEO) plays a major role in informative website development. A website that is properly optimized for search engines can rank higher on Google and attract more organic traffic. Developers and SEO specialists optimize page structures, headings, images, URLs, metadata, keywords, and loading speeds to ensure better visibility online. Informative websites often include blog sections and knowledge-based content to target industry-related search queries and generate long-term traffic.\n\nPerformance optimization is equally important because users expect fast-loading websites. Slow websites can negatively affect user experience and search rankings. Informative websites are built using optimized code structures, compressed media files, caching systems, and modern technologies to ensure fast performance. Speed optimization improves engagement rates and reduces bounce rates significantly.\n\nSecurity is another important component of professional informative websites. Modern websites require SSL certificates, secure hosting, data protection systems, spam protection, and secure admin access to safeguard user information and maintain trust. Security measures also help protect websites from hacking attempts, malware, and unauthorized access.\n\nContent management systems such as WordPress, custom admin panels, or headless CMS platforms are commonly used to allow businesses to manage website content easily. Clients can update blogs, images, services, and other information without requiring technical expertise. This flexibility makes informative websites scalable and future-ready.\n\nAn informative website can include multiple pages and sections depending on the business requirements. Common sections include Home, About Us, Services, Portfolio, Gallery, Testimonials, Blogs, Careers, FAQs, Contact Us, Privacy Policy, and Terms & Conditions. Some businesses also integrate live chat systems, appointment booking forms, inquiry systems, newsletters, and social media integration to improve customer communication.\n\nProfessional informative websites are useful for various industries including education, healthcare, real estate, law firms, marketing agencies, construction companies, IT companies, hotels, restaurants, NGOs, freelancers, consultants, manufacturers, and many more. Every organization that wants to establish an online identity and share information with customers can benefit from an informative website.\n\nInformative websites also help businesses establish authority in their industry. Through informative articles, blogs, resources, guides, and service pages, companies can educate users and position themselves as experts in their field. This increases customer trust and improves brand reputation over time.\n\nAnother major advantage of informative websites is cost-effective marketing. Compared to traditional advertising methods such as newspaper ads, billboards, and pamphlets, websites provide long-term value and global reach at a lower cost. Businesses can continuously update their content, promote new services, and engage with customers through their website without recurring printing expenses.\n\nAnalytics and tracking tools can also be integrated into informative websites to monitor visitor behavior, page performance, traffic sources, and user engagement. Businesses can use this data to improve their marketing strategies, optimize content, and make informed business decisions.\n\nModern informative websites are designed with aesthetic appeal and branding consistency in mind. Designers carefully select colors, fonts, graphics, icons, and layouts that align with the brand identity. High-quality visuals, animations, and interactive sections enhance the overall user experience and create a professional impression.\n\nAccessibility standards are also considered during development to ensure that websites are usable for people with disabilities. Proper color contrast, keyboard navigation, alt text for images, and semantic HTML structures improve inclusivity and usability for all users.\n\nIn today’s competitive digital landscape, an informative website is no longer optional; it is a necessity for businesses aiming to grow and remain competitive. A strong online presence helps businesses attract new customers, build credibility, improve communication, and increase brand awareness. Whether it is a small startup or a large enterprise, an informative website acts as a central hub where customers can learn everything about the business.\n\nOur team specializes in designing and developing professional informative websites that combine modern aesthetics, advanced functionality, responsive layouts, SEO optimization, and high performance. We focus on delivering websites that not only look visually impressive but also provide measurable business results. Every website is crafted with attention to detail, ensuring seamless navigation, engaging content presentation, and optimal performance across all devices.\n\nWe believe that every business has unique goals and requirements, which is why we create customized informative websites tailored specifically to each client’s vision and industry needs. From planning and UI/UX design to development and deployment, our complete website development process ensures quality, reliability, and long-term scalability.\n\nAn informative website is more than just an online platform; it is a powerful business tool that helps organizations communicate effectively, establish trust, attract customers, and grow digitally in an increasingly connected world.",
+    "fullDescription2": "Effective informative website development goes far beyond visual appearance. A successful informative website combines design, technology, strategy, performance, and user experience to create a powerful online presence that delivers value to both businesses and users. Every element of the website is carefully planned to ensure users can access information quickly, interact smoothly, and build trust with the brand.\n\nThe homepage of an informative website serves as the first impression for visitors. It usually contains a professional banner section, company introduction, featured services, achievements, client testimonials, and strong call-to-action elements. A well-designed homepage captures attention immediately and encourages users to explore more pages.\n\nThe About Us section is another important part of an informative website. It helps businesses tell their story, mission, vision, values, experience, and journey. This section allows visitors to connect emotionally with the brand and understand its background. Including team member profiles, certifications, awards, and company milestones further enhances credibility.\n\nService pages provide detailed explanations of the company’s offerings. Each service page is structured with headings, descriptions, images, benefits, processes, FAQs, and inquiry forms to help users understand the service completely. SEO-friendly service pages also improve search engine visibility and help attract targeted customers.\n\nBlogs and article sections are highly valuable for informative websites because they help businesses publish industry-related content regularly. Blogging improves SEO performance, increases website traffic, and positions the business as an authority in the market. Informative blogs can include guides, tutorials, industry updates, case studies, tips, and educational resources.\n\nPortfolio and gallery sections showcase previous work, projects, achievements, or visual representations of services. These sections are especially useful for agencies, photographers, architects, developers, designers, and construction companies. A visually appealing portfolio builds trust and demonstrates expertise.\n\nTestimonials and client review sections are powerful trust-building elements. Positive customer feedback helps potential clients feel more confident about choosing the business. Real reviews and success stories improve conversion rates and strengthen brand reputation.\n\nContact pages are designed to make communication simple and accessible. They typically include contact forms, email addresses, phone numbers, office locations, Google Maps integration, and social media links. Some websites also integrate WhatsApp chat, live chat support, and callback request systems for better customer interaction.\n\nTechnology plays a major role in the success of informative websites. Modern websites are built using technologies such as HTML5, CSS3, JavaScript, React, Next.js, Node.js, PHP, Laravel, WordPress, and various CMS platforms depending on project requirements. Developers choose the best technology stack to ensure scalability, speed, security, and maintainability.\n\nUser Interface (UI) and User Experience (UX) design are central to informative website development. UI focuses on the visual presentation of elements such as buttons, layouts, icons, typography, and colors, while UX focuses on improving usability and interaction flow. A good UI/UX design ensures visitors can navigate the website comfortably and complete desired actions easily.\n\nAccessibility and inclusivity are becoming increasingly important in modern web development. Informative websites are designed to accommodate users with different abilities by following accessibility guidelines. Features such as readable typography, screen-reader compatibility, keyboard navigation, proper color contrast, and alt text for images improve usability for all users.\n\nSEO optimization remains one of the most critical aspects of informative website development. Search engines reward websites that provide quality content, optimized structures, fast loading speeds, and mobile responsiveness. Our SEO strategies include keyword optimization, technical SEO, schema markup, optimized URLs, meta tags, internal linking, image optimization, and content structuring to improve search rankings.\n\nWebsite security is essential for protecting both businesses and users. Informative websites implement SSL encryption, secure hosting environments, firewalls, malware protection, spam filtering, regular backups, and authentication systems to ensure safe browsing experiences. Strong security also builds trust among users and improves credibility.\n\nPerformance optimization techniques are used to reduce loading times and improve website responsiveness. These techniques include code minification, lazy loading, caching, image compression, CDN integration, and optimized hosting infrastructure. Faster websites provide better user experiences and improve search engine rankings.\n\nAnalytics integration helps businesses monitor user behavior and website performance. Tools such as Google Analytics and Search Console provide valuable insights into traffic sources, popular pages, user demographics, and engagement metrics. Businesses can use this data to improve content strategies and marketing campaigns.\n\nInformative websites can also integrate additional features such as newsletters, appointment booking systems, career portals, downloadable resources, FAQs, event management systems, and customer inquiry management tools. These features improve engagement and provide added value to visitors.\n\nOur informative website development services focus on creating high-quality, scalable, and future-ready digital platforms. We follow a structured development process that includes requirement analysis, planning, UI/UX design, development, testing, deployment, and maintenance. Every project is handled with attention to detail to ensure exceptional quality and performance.\n\nWe also provide ongoing support and maintenance services to ensure websites remain updated, secure, and optimized. Technology evolves rapidly, and regular updates help maintain compatibility, security, and performance over time.\n\nAn informative website is one of the most powerful investments a business can make in the digital era. It enhances brand credibility, improves customer communication, increases visibility, and creates long-term growth opportunities. Whether you are a startup, entrepreneur, educational institution, healthcare provider, or established enterprise, a professionally developed informative website can significantly strengthen your online presence and business success.",
+    "features": [
+        "Mobile-First Design",
+        "Fast Loading Time",
+        "SEO Optimized",
+        "Responsive Layout",
+        "User-Friendly Interface",
+        "Modern UI/UX Design",
+        "Secure Architecture",
+        "Scalable Development",
+        "Analytics Integration",
+        "Cross-Browser Compatibility"
+    ],
+    "price": "Starting from Rs. 50,000",
+    "types": 
+        [
+        {
+            "title": "Informative Website",
+            "description": "An Informative Website is designed to provide detailed and organized information about a business, company, organization, service, product, or personal brand. It acts as a digital identity where visitors can learn everything about the business in a professional and user-friendly way. In today’s digital world, customers first search online before contacting any company, which makes an informative website one of the most important assets for building trust and credibility.\n\nAn informative website usually includes sections such as Home, About Us, Services, Portfolio, Blogs, Testimonials, FAQs, and Contact Us pages. These sections help businesses present their expertise, achievements, mission, and values in a structured format. The primary goal of an informative website is to educate visitors, improve brand visibility, and generate inquiries or leads.\n\nModern informative websites are built with responsive design so they work perfectly across smartphones, tablets, laptops, and desktops. A responsive layout improves user experience and helps businesses reach audiences on all devices. These websites are also optimized for search engines using SEO techniques such as keyword optimization, fast loading speed, proper headings, optimized images, and clean code structure.\n\nAn informative website focuses heavily on user experience and navigation. Visitors should be able to access important information quickly without confusion. Clear menus, call-to-action buttons, engaging layouts, and organized content improve interaction and encourage users to stay longer on the website.\n\nBusinesses from various industries such as education, healthcare, real estate, IT services, legal firms, hotels, restaurants, marketing agencies, and construction companies use informative websites to establish a strong online presence. Blog sections can also be added to regularly publish articles, updates, tips, and industry-related content, helping businesses improve SEO rankings and attract organic traffic.\n\nInformative websites are ideal for companies that want to showcase their expertise, provide useful information, and build long-term customer trust. These websites create a professional impression and help businesses connect with audiences globally.",
+            "features": [
+            "Responsive Design",
+            "SEO Optimized",
+            "Fast Loading Speed",
+            "Blog Management",
+            "Portfolio Showcase",
+            "Contact Forms",
+            "Social Media Integration",
+            "Mobile-Friendly Layout",
+            "Secure Website Structure",
+            "Google Maps Integration"
+            ],
+            "price": "Starting from Rs. 50,000"
+        },
+        {
+            "title": "E-Commerce Website",
+            "description": "An E-Commerce Website is a powerful online platform that allows businesses to sell products and services directly to customers through the internet. It provides a complete digital shopping experience where users can browse products, add items to their cart, make online payments, and place orders easily from any location. E-commerce websites have transformed the way businesses operate by enabling 24/7 online sales and reaching customers globally.\n\nA professional e-commerce website includes multiple important features such as product listings, product categories, shopping cart systems, secure payment gateways, inventory management, order tracking, user accounts, coupon systems, and customer support integrations. These features help businesses manage online sales efficiently while providing a smooth shopping experience for customers.\n\nModern e-commerce websites are designed with attractive user interfaces and responsive layouts that work seamlessly across all devices including smartphones, tablets, and desktops. Mobile optimization is especially important because a large percentage of online shoppers use mobile devices for browsing and purchasing products.\n\nSecurity is a critical component of e-commerce websites because they handle sensitive customer information such as payment details and personal data. Advanced security measures including SSL certificates, encrypted transactions, secure payment gateways, authentication systems, and fraud protection tools are implemented to ensure safe online shopping experiences.\n\nE-commerce websites also support advanced features such as product search filters, wishlists, customer reviews, live chat systems, abandoned cart recovery, analytics dashboards, and multi-vendor functionality. Businesses can also integrate third-party shipping providers, tax calculation systems, and marketing tools to improve efficiency and customer engagement.\n\nSEO optimization and digital marketing integrations help e-commerce websites attract more traffic and improve online sales. Product pages are optimized with keywords, meta tags, and structured data to improve visibility on search engines. Integration with social media platforms, email marketing systems, and advertising tools further enhances marketing performance.\n\nE-commerce websites are suitable for various industries including fashion, electronics, grocery, furniture, beauty products, healthcare items, digital products, and many other retail businesses. Whether it is a small startup or a large enterprise, an e-commerce website provides businesses with the opportunity to expand their customer base and increase revenue online.\n\nWith advanced analytics and reporting systems, businesses can monitor sales performance, customer behavior, inventory levels, and marketing effectiveness in real time. These insights help companies make informed decisions and improve their online business strategies.\n\nA professionally developed e-commerce website not only increases online sales but also strengthens brand credibility, customer trust, and long-term business growth.",
+            "features": [
+            "Online Product Selling",
+            "Shopping Cart System",
+            "Secure Payment Gateway",
+            "Order Tracking",
+            "Inventory Management",
+            "Customer Accounts",
+            "Coupon & Discount System",
+            "Mobile Responsive Design",
+            "SEO Friendly Structure",
+            "Analytics Dashboard"
+            ],
+            "price": "Starting from Rs. 100,000"
+        },
+        {
+            "title": "SaaS Website",
+            "description": "A SaaS (Software as a Service) Website is a modern cloud-based platform that allows users to access software applications through the internet without downloading or installing them locally. SaaS websites are widely used for subscription-based software services such as CRM systems, project management tools, learning platforms, accounting systems, marketing automation tools, and business management applications.\n\nSaaS websites are designed to provide scalable, secure, and user-friendly digital solutions that users can access anytime and from anywhere using a web browser. These platforms usually include features such as user registration, login systems, subscription plans, dashboards, analytics, billing systems, cloud storage integration, notifications, and advanced administrative controls.\n\nA professional SaaS website focuses heavily on performance, scalability, and user experience. Since SaaS applications often handle large amounts of user data and real-time operations, they are built using advanced technologies such as React, Next.js, Node.js, Laravel, MongoDB, PostgreSQL, and cloud infrastructure services.\n\nSubscription management is one of the core functionalities of SaaS websites. Users can choose plans, make recurring payments, upgrade or downgrade subscriptions, and manage billing information through automated systems. Payment gateways and invoicing systems are integrated to ensure smooth and secure financial transactions.\n\nSecurity is extremely important in SaaS development because these platforms store sensitive user and business data. Advanced security features such as encrypted databases, role-based access control, two-factor authentication, secure APIs, firewalls, and automated backups are implemented to protect data and maintain reliability.\n\nModern SaaS websites are designed with clean and interactive dashboards that allow users to manage their accounts, monitor activities, analyze reports, and use software features efficiently. User-friendly interfaces and responsive layouts improve customer satisfaction and retention.\n\nScalability is another major advantage of SaaS platforms. Businesses can easily add new features, handle growing user traffic, and expand globally without rebuilding the entire system. Cloud-based infrastructure ensures flexibility, high availability, and better performance.\n\nSaaS websites also integrate advanced technologies such as AI tools, automation systems, APIs, team collaboration modules, email systems, and real-time notifications to improve functionality and productivity. Analytics systems provide detailed insights into user activity, subscriptions, revenue, and software performance.\n\nThese websites are widely used by startups, enterprises, educational institutions, healthcare organizations, financial companies, and service providers to deliver software solutions online. SaaS businesses benefit from recurring revenue models, global accessibility, and long-term customer relationships.\n\nA professionally developed SaaS website helps businesses launch scalable digital products, manage subscriptions efficiently, improve customer engagement, and generate sustainable online revenue. With modern design, advanced security, and powerful cloud-based architecture, SaaS platforms represent the future of digital software services.",
+            "features": [
+            "User Authentication",
+            "Subscription Management",
+            "Admin Dashboard",
+            "Cloud-Based Access",
+            "Analytics & Reports",
+            "Role-Based Access Control",
+            "API Integrations",
+            "Automated Billing System",
+            "Scalable Infrastructure",
+            "Advanced Security Features"
+            ],
+            "price": "Starting from Rs. 150,000"
+        }
+        ]
+    },
+  {
+  "id": "crm-software",
+  "title": "CRM Software",
+  "shortDesc": "Custom CRMs that automate pipelines and grow LTV.",
+  "icon": "Database",
+  "hue": 290,
+  "fullDescription": "Customer Relationship Management (CRM) software is one of the most essential digital solutions for modern businesses that want to manage customer relationships, sales activities, marketing campaigns, and support operations efficiently. CRM software centralizes customer information and interactions into a single system, allowing businesses to streamline communication, improve productivity, and enhance customer satisfaction. In today’s competitive market, businesses need organized systems to track leads, manage customers, analyze sales performance, and automate repetitive tasks. CRM software helps organizations achieve these goals through powerful automation and data management capabilities.\n\nA CRM system acts as a centralized database where businesses can store customer details such as contact information, communication history, purchase records, support tickets, meeting notes, and sales activities. By maintaining all customer-related information in one place, teams can access accurate and updated data anytime, improving collaboration across departments.\n\nCRM software is widely used by sales teams, customer support teams, marketing departments, and management professionals. Sales representatives can track leads, monitor deal progress, schedule follow-ups, and manage pipelines more effectively. Marketing teams can automate campaigns, segment audiences, track engagement, and analyze customer behavior. Customer support teams can resolve issues faster by accessing complete customer interaction histories.\n\nModern CRM systems are designed with automation features that reduce manual work and improve operational efficiency. Tasks such as lead assignment, email follow-ups, reminders, notifications, invoice generation, and reporting can be automated to save time and increase productivity. Automation allows employees to focus more on relationship building and strategic activities instead of repetitive administrative tasks.\n\nOne of the biggest advantages of CRM software is improved customer relationship management. Businesses can understand customer preferences, needs, and behaviors more effectively through organized data and analytics. This helps companies provide personalized communication, targeted marketing, and better customer service experiences.\n\nCRM software also improves collaboration within organizations. Since all departments access the same customer information, teams can coordinate activities more efficiently and avoid communication gaps. For example, the sales team can view support interactions while the support team can access purchase histories and marketing campaigns.\n\nAnalytics and reporting are critical components of CRM systems. Businesses can generate detailed reports on sales performance, customer engagement, lead conversion rates, employee productivity, marketing ROI, and revenue growth. These insights help organizations make data-driven decisions and identify opportunities for improvement.\n\nModern CRM platforms are cloud-based, allowing businesses to access data securely from anywhere using computers, tablets, or smartphones. Cloud CRM solutions provide scalability, flexibility, and remote accessibility, making them ideal for modern businesses with distributed teams.\n\nSecurity is another important aspect of CRM software. Since customer data is highly sensitive, CRM systems implement advanced security measures such as role-based access control, encrypted databases, secure authentication systems, automated backups, and data protection policies to ensure privacy and security.\n\nCRM software can also integrate with third-party tools such as email platforms, accounting software, payment gateways, marketing automation tools, WhatsApp APIs, social media platforms, ERP systems, and analytics software. These integrations help businesses create a unified workflow and improve efficiency.\n\nIndustries such as real estate, healthcare, education, finance, e-commerce, IT services, manufacturing, hospitality, and consulting widely use CRM systems to manage customer interactions and improve business operations. Whether it is a startup or a large enterprise, CRM software provides scalable solutions for managing growth and improving customer retention.\n\nA professionally developed CRM solution helps businesses increase productivity, improve communication, optimize sales performance, automate workflows, and build stronger customer relationships. It is not just a management tool but a strategic platform that drives business growth and long-term success.",
+  "fullDescription2": "Effective CRM software development focuses on creating user-friendly, scalable, secure, and feature-rich systems that improve customer management and business performance. Every CRM solution is customized according to the unique requirements of the business, industry, and workflow processes. The development process includes requirement analysis, UI/UX design, database architecture, feature integration, testing, deployment, and ongoing maintenance.\n\nThe dashboard is one of the most important components of a CRM system. A well-designed dashboard provides a clear overview of sales activities, lead status, customer interactions, pending tasks, support tickets, analytics, and performance metrics. Businesses can monitor important operations in real time and make quick decisions using visual reports and charts.\n\nLead management is a core feature of CRM software. Businesses can collect leads from websites, forms, social media campaigns, advertisements, and other sources. CRM systems automatically organize leads, assign them to sales representatives, track communication, and move them through different pipeline stages until conversion.\n\nSales pipeline management helps organizations track deals and opportunities efficiently. Sales teams can monitor the status of each deal, set reminders, schedule meetings, and forecast future revenue. Visual pipeline systems improve transparency and help managers analyze team performance.\n\nContact management allows businesses to maintain organized customer databases. CRM systems store customer names, phone numbers, email addresses, company details, purchase histories, notes, and interaction timelines in one centralized platform. This improves communication and customer engagement.\n\nTask automation significantly improves productivity in CRM systems. Businesses can automate follow-up emails, appointment reminders, workflow approvals, invoice generation, notifications, and recurring processes. Automation reduces human errors and saves valuable time.\n\nMarketing automation is another major advantage of CRM software. Businesses can create email campaigns, schedule promotional messages, segment customer groups, and track engagement metrics. Marketing CRM systems help companies deliver personalized experiences and improve conversion rates.\n\nCustomer support management systems within CRM platforms help businesses handle customer queries and complaints effectively. Features such as ticket management, live chat integration, support history tracking, and knowledge bases improve customer satisfaction and response times.\n\nModern CRM software includes role-based access control to ensure secure data management. Different users such as admins, managers, sales representatives, and support staff receive customized access permissions according to their responsibilities.\n\nCloud-based CRM solutions provide flexibility and remote accessibility. Employees can access customer data, update information, and manage workflows from any location using secure internet connections. This is especially beneficial for remote teams and businesses with multiple branches.\n\nCRM software is designed with scalability in mind, allowing businesses to expand features and handle increasing amounts of data as they grow. New modules such as HR management, invoicing systems, project management, inventory tracking, and AI-powered analytics can be integrated easily.\n\nAdvanced analytics and reporting tools provide valuable insights into business performance. CRM systems generate reports related to sales growth, lead conversion, customer retention, campaign performance, employee productivity, and customer behavior. These insights help businesses optimize strategies and improve decision-making.\n\nIntegration capabilities make CRM software even more powerful. Businesses can connect CRM platforms with email systems, SMS gateways, WhatsApp APIs, payment gateways, ERP software, accounting systems, and marketing platforms to create seamless workflows.\n\nSecurity and reliability are major priorities during CRM development. Features such as SSL encryption, secure authentication, database backups, firewall protection, and activity logs ensure customer data remains safe and protected.\n\nMobile responsiveness and mobile applications improve accessibility for users who need to manage customer interactions while traveling or working remotely. A responsive CRM system allows teams to access data and perform tasks efficiently on smartphones and tablets.\n\nOur CRM software development services focus on delivering customized, scalable, and performance-driven solutions tailored to each business’s operational needs. We develop CRM platforms that improve workflow management, automate business processes, strengthen customer relationships, and increase overall efficiency.\n\nWe use modern technologies such as React, Next.js, Node.js, Laravel, MongoDB, PostgreSQL, and cloud infrastructure services to create high-performance CRM solutions with advanced functionality and long-term scalability.\n\nFrom small businesses to large enterprises, CRM software provides organizations with the tools they need to improve customer communication, increase sales efficiency, automate operations, and achieve sustainable business growth in the digital era.",
+  "features": [
+    "Lead Management",
+    "Sales Pipeline Tracking",
+    "Task Automation",
+    "Customer Database Management",
+    "Multi-Channel Communication",
+    "Analytics & Reporting",
+    "Marketing Automation",
+    "Role-Based Access Control",
+    "Cloud-Based Access",
+    "Mobile Responsive Dashboard"
+  ],
+  "price": "Starting from Rs. 100,000",
+  "types": 
+  [
+  {
+    "title": "Sales CRM",
+    "description": "Sales CRM software is a powerful business solution designed to help organizations manage their entire sales process efficiently, from lead generation to final deal closure. It centralizes customer information, sales activities, follow-ups, and communication history into one organized platform, allowing sales teams to work more productively and close deals faster. In modern businesses, managing customer relationships manually becomes difficult as the number of leads and clients grows. Sales CRM software solves this problem by automating workflows, improving collaboration, and providing real-time insights into sales performance.\n\nA Sales CRM system helps businesses capture leads from multiple sources such as websites, landing pages, social media campaigns, advertisements, email inquiries, and referral systems. Once leads are collected, the CRM automatically organizes and assigns them to sales representatives based on predefined rules or territories. This ensures faster response times and better lead management.\n\nLead management is one of the most important features of Sales CRM software. Businesses can track every interaction with leads including calls, emails, meetings, notes, proposals, and status updates. Sales representatives can view complete customer histories and personalize communication according to customer interests and behavior. Personalized engagement increases the chances of converting leads into customers.\n\nPipeline management helps sales teams visualize and track the progress of deals across different stages such as new lead, qualified lead, proposal sent, negotiation, and closed deal. Managers can easily monitor the pipeline, identify bottlenecks, and forecast revenue based on active opportunities. Visual sales pipelines improve transparency and help teams stay organized.\n\nTask automation significantly improves productivity within Sales CRM systems. Businesses can automate repetitive tasks such as follow-up reminders, lead assignments, email scheduling, notifications, status updates, and meeting reminders. Automation reduces manual effort and ensures that no important lead or task is missed.\n\nSales CRM software also improves team collaboration by allowing sales managers and representatives to access shared customer data and communication records. Teams can coordinate activities efficiently, monitor performance, and collaborate on deals without communication gaps.\n\nAnalytics and reporting tools provide valuable insights into sales performance, conversion rates, revenue growth, team productivity, and customer behavior. Businesses can generate detailed reports and dashboards to monitor KPIs and make data-driven decisions. Managers can identify top-performing sales representatives, evaluate strategies, and optimize sales processes using real-time analytics.\n\nModern Sales CRM systems are cloud-based, enabling remote access from anywhere using laptops, tablets, or smartphones. Mobile accessibility allows sales representatives to manage leads, update deals, schedule meetings, and communicate with customers while traveling or working remotely.\n\nIntegration capabilities make Sales CRM systems even more powerful. Businesses can integrate CRM platforms with email services, telephony systems, WhatsApp APIs, payment gateways, ERP software, accounting tools, and marketing platforms to create seamless workflows and improve operational efficiency.\n\nSecurity is a critical aspect of Sales CRM software because customer data is highly sensitive. Advanced security measures such as role-based access control, encrypted databases, secure login systems, activity logs, and automated backups help protect business and customer information.\n\nSales CRM software is widely used in industries such as real estate, insurance, healthcare, education, finance, automotive, IT services, manufacturing, consulting, and e-commerce. Whether it is a startup or a large enterprise, Sales CRM helps organizations streamline sales operations, improve customer engagement, and increase revenue.\n\nA professionally developed Sales CRM system improves lead conversion, shortens sales cycles, automates processes, and strengthens customer relationships. It is an essential tool for businesses aiming to scale operations, improve sales performance, and achieve long-term growth in a competitive digital marketplace.",
+    "features": [
+      "Lead Management",
+      "Sales Pipeline Tracking",
+      "Deal Forecasting",
+      "Task Automation",
+      "Customer Database Management",
+      "Follow-Up Reminders",
+      "Sales Analytics",
+      "Email Integration",
+      "Cloud Access",
+      "Mobile CRM"
+    ],
+    "price": "Starting from Rs. 100,000"
+  },
+  {
+    "title": "Customer Service CRM",
+    "description": "Customer Service CRM software is designed to help businesses manage customer support operations efficiently while improving customer satisfaction and long-term relationships. In today’s competitive market, providing fast and professional customer service is essential for retaining customers and building trust. Customer Service CRM systems centralize all customer interactions, support requests, tickets, communication history, and issue resolutions into a single platform, enabling support teams to provide seamless assistance.\n\nA Customer Service CRM system allows businesses to manage customer inquiries from multiple communication channels such as email, phone calls, live chat, WhatsApp, social media platforms, websites, and support portals. Instead of handling customer conversations separately across different platforms, the CRM consolidates all interactions into one dashboard for better organization and faster response times.\n\nTicket management is one of the most important features of Customer Service CRM software. Whenever a customer raises a complaint or support request, the system automatically generates a ticket and assigns it to the appropriate support agent or department. Support teams can track ticket status, monitor response times, set priorities, and ensure timely issue resolution.\n\nCustomer interaction history plays a major role in delivering personalized support experiences. Support agents can view previous conversations, purchase records, service history, and customer preferences before responding to inquiries. This helps businesses provide more accurate and customer-focused solutions.\n\nAutomation features improve support efficiency by reducing repetitive manual tasks. Automated workflows can send acknowledgment emails, assign tickets, escalate unresolved issues, trigger notifications, and provide instant responses for common queries. Automation helps businesses improve response speed and reduce workload on support teams.\n\nKnowledge base systems are another valuable component of Customer Service CRM software. Businesses can create FAQs, tutorials, guides, troubleshooting articles, and self-help resources for customers. This allows users to find answers independently without contacting support, reducing ticket volume and improving customer experience.\n\nLive chat integration enables real-time communication between businesses and customers. Support agents can resolve issues instantly, guide users through processes, and improve engagement directly through the website or mobile applications.\n\nAnalytics and reporting tools help businesses measure support performance and customer satisfaction. CRM systems generate reports related to response times, ticket resolution rates, customer feedback, agent productivity, and support trends. These insights help organizations identify service gaps and improve support strategies.\n\nRole-based access control ensures secure management of customer data and support operations. Different users such as support agents, managers, and administrators can access only the information relevant to their responsibilities.\n\nModern Customer Service CRM systems are cloud-based and mobile-friendly, allowing support teams to manage tickets and communicate with customers remotely. Businesses with multiple branches or remote teams benefit from centralized access and real-time updates.\n\nIntegration capabilities allow Customer Service CRM platforms to connect with email systems, WhatsApp APIs, telephony services, social media channels, e-commerce platforms, and internal business tools. These integrations improve workflow efficiency and create a unified customer support ecosystem.\n\nCustomer Service CRM software is widely used in industries such as e-commerce, healthcare, banking, telecommunications, education, travel, hospitality, insurance, and IT services. Businesses use these systems to improve customer satisfaction, strengthen relationships, and increase retention rates.\n\nA professionally developed Customer Service CRM system helps businesses deliver exceptional support experiences, improve communication efficiency, automate service operations, and maintain long-term customer loyalty. It is an essential platform for organizations that prioritize customer satisfaction and operational excellence.",
+    "features": [
+      "Ticket Management",
+      "Multi-Channel Communication",
+      "Knowledge Base",
+      "Customer History Tracking",
+      "Live Chat Integration",
+      "Automated Responses",
+      "Issue Escalation",
+      "Support Analytics",
+      "Cloud-Based Access",
+      "Customer Feedback Management"
+    ],
+    "price": "Starting from Rs. 80,000"
+  },
+  {
+    "title": "Marketing CRM",
+    "description": "Marketing CRM software is a modern business solution designed to help organizations automate marketing activities, manage customer engagement, improve lead generation, and optimize marketing campaigns. In today’s digital landscape, businesses need advanced systems to manage customer communication across multiple platforms while delivering personalized experiences. Marketing CRM systems provide the tools required to organize campaigns, analyze customer behavior, and increase conversion rates efficiently.\n\nMarketing CRM software centralizes customer data, campaign activities, engagement metrics, and communication history into a single platform. Businesses can use this data to create highly targeted marketing strategies based on customer interests, demographics, behavior patterns, purchase history, and interaction activities.\n\nOne of the most important features of Marketing CRM systems is campaign management. Businesses can create, schedule, monitor, and optimize marketing campaigns across email, SMS, WhatsApp, social media, websites, and advertising platforms. Campaign management tools help organizations track performance metrics such as clicks, open rates, impressions, engagement rates, and conversions.\n\nEmail automation is another powerful feature of Marketing CRM software. Businesses can automatically send welcome emails, promotional offers, newsletters, reminders, abandoned cart notifications, and follow-up messages based on customer behavior and predefined workflows. Automation improves marketing efficiency while reducing manual effort.\n\nAudience segmentation allows businesses to divide customers into specific groups based on interests, location, purchase history, demographics, or engagement patterns. Segmentation helps organizations create personalized campaigns that improve customer engagement and increase conversion rates.\n\nLead scoring systems help marketing and sales teams identify high-quality leads based on customer activities and engagement levels. CRM software assigns scores to leads according to predefined rules such as email interactions, website visits, downloads, or inquiries. High-scoring leads can then be prioritized by sales teams for faster conversions.\n\nCustomer engagement tracking enables businesses to monitor how users interact with emails, websites, advertisements, and social media campaigns. Businesses can analyze customer journeys, identify trends, and optimize marketing strategies using detailed analytics and behavioral insights.\n\nMarketing CRM systems also integrate with landing pages, websites, social media platforms, advertising networks, and analytics tools to create seamless marketing workflows. Integration capabilities improve efficiency and allow businesses to manage all marketing activities from a centralized platform.\n\nAnalytics and reporting tools provide real-time insights into campaign performance, customer acquisition costs, ROI, engagement metrics, conversion rates, and revenue growth. Businesses can use these insights to make data-driven decisions and continuously improve marketing strategies.\n\nModern Marketing CRM platforms are cloud-based and mobile-friendly, allowing marketing teams to manage campaigns, monitor analytics, and communicate with customers remotely. Cloud infrastructure also provides scalability and flexibility for growing businesses.\n\nSecurity and data privacy are important components of Marketing CRM systems because they handle sensitive customer information. Advanced security features such as encrypted databases, role-based permissions, secure authentication systems, and compliance tools help businesses protect user data and maintain trust.\n\nMarketing CRM software is widely used by businesses in industries such as e-commerce, real estate, education, healthcare, finance, hospitality, SaaS, and digital marketing agencies. Organizations use these systems to automate marketing processes, improve customer targeting, increase engagement, and maximize marketing ROI.\n\nA professionally developed Marketing CRM system helps businesses create personalized customer experiences, automate campaigns, improve lead generation, strengthen customer relationships, and achieve sustainable business growth through advanced digital marketing strategies.",
+    "features": [
+      "Campaign Management",
+      "Email Automation",
+      "Lead Scoring",
+      "Audience Segmentation",
+      "Customer Engagement Tracking",
+      "Marketing Analytics",
+      "Landing Page Integration",
+      "Social Media Integration",
+      "Automated Workflows",
+      "Performance Reporting"
+    ],
+    "price": "Starting from Rs. 75,000"
+  }
+]
+},
+    {
+      "id": "seo",
+      "title": "SEO",
+      "shortDesc": "Rank for what matters — technical, content & links.",
+      "icon": "Search",
+      "hue": 220,
+      "fullDescription": "It involves various strategies aimed at enhancing a website's relevance and authority in the eyes of search engines like Google, Bing, and Yahoo. These strategies often include keyword research, on-page optimization, technical optimization, link building, and content creation.",
+      "fullDescription2": "Effective SEO helps websites attract more organic (non-paid) traffic by ensuring they appear higher in search results for relevant queries. By aligning with search engine algorithms and user intent, SEO enables websites to meet the needs of both search engines and users, leading to increased visibility, website traffic, and ultimately, conversions.",
+      "features": [
+        "Keyword Research",
+        "Technical SEO Audit",
+        "Content Optimization",
+        "Backlink Building",
+        "Ranking Tracking"
+      ],
+      "price": "Starting from Rs. 20,000/month",
+      "types": [
+        {
+          "title": "Local SEO",
+          "description": "Optimize your business for local search results. Get found by customers in your area searching for your products or services.",
+          "features": [
+            "Google My Business",
+            "Local Citations",
+            "Local Link Building"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        },
+        {
+          "title": "Technical SEO",
+          "description": "Improve your website's technical foundation including site speed, mobile optimization, XML sitemaps, and structured data markup.",
+          "features": [
+            "Site Speed Optimization",
+            "Mobile Optimization",
+            "XML Sitemaps"
+          ],
+          "price": "Starting from Rs. 20,000/month"
+        },
+        {
+          "title": "On-Page & Off-Page SEO",
+          "description": "Optimize your website content and build authority through strategic link building and content marketing.",
+          "features": [
+            "Meta Tags Optimization",
+            "Content Optimization",
+            "Link Building"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        }
+      ]
+    },
+    {
+      "id": "digital-marketing",
+      "title": "Digital Marketing",
+      "shortDesc": "Full-funnel campaigns engineered for ROI.",
+      "icon": "Megaphone",
+      "hue": 310,
+      "fullDescription": "Digital marketing software encompasses a range of tools designed to streamline and enhance online marketing efforts. From comprehensive platforms like HubSpot and Marketo to specialized tools like SEMrush for SEO and Buffer for social media management, these softwares offer features such as analytics, automation, email marketing, and campaign management.",
+      "fullDescription2": "They empower businesses to optimize their digital presence, target audiences effectively, and track performance metrics in real-time. With intuitive interfaces and robust functionalities, digital marketing software facilitates strategic decision-making and fosters engagement across multiple channels, driving growth and maximizing ROI in today's competitive online landscape.",
+      "features": [
+        "Campaign Planning",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Content Creation",
+        "Conversion Optimization"
+      ],
+      "price": "Starting from Rs. 30,000/month",
+      "tools": [
+        "Digi-Mate Bulk Sender For Whatsapp",
+        "Digi-Mate Data Extractor",
+        "Instagram Robot",
+        "JD Extractor",
+        "CRM",
+        "SEO",
+        "Post Creation",
+        "Facebook Bulk Sender",
+        "Facebook Robot",
+        "Instagram Bulk Sender",
+        "Telegram Bulk Sender",
+        "India Mart Extractor",
+        "Inventory Management",
+        "SMM",
+        "Animation Video Creation"
+      ],
+      "types": [
+        {
+          "title": "Social Media Marketing",
+          "description": "Manage and grow your presence across all major social media platforms with content creation, scheduling, and engagement tools.",
+          "features": [
+            "Instagram Robot",
+            "Facebook Bulk Sender",
+            "Instagram Bulk Sender",
+            "Telegram Bulk Sender"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        },
+        {
+          "title": "Email Marketing & Automation",
+          "description": "Create, send, and automate email campaigns with advanced segmentation and personalization for maximum engagement.",
+          "features": [
+            "Email Automation",
+            "Bulk Sending",
+            "List Management",
+            "Performance Analytics"
+          ],
+          "price": "Starting from Rs. 20,000/month"
+        },
+        {
+          "title": "Data Extraction & Lead Generation",
+          "description": "Extract valuable customer data from multiple platforms and generate qualified leads for your business.",
+          "features": [
+            "Digi-Mate Data Extractor",
+            "JD Extractor",
+            "India Mart Extractor",
+            "Lead Database Building"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        },
+        {
+          "title": "Content Creation & Management",
+          "description": "Create engaging content including posts, videos, and graphics with animation video creation tools.",
+          "features": [
+            "Post Creation",
+            "Animation Video Creation",
+            "Graphic Design",
+            "Content Calendar Management"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        }
+      ]
+    },
+    {
+      "id": "social-media-marketing",
+      "title": "Social Media Marketing",
+      "shortDesc": "On-brand creative that turns scrolls into sales.",
+      "icon": "Share2",
+      "hue": 200,
+      "fullDescription": "Social media management is the process of creating, publishing, and analyzing content across various social media platforms to engage audiences and achieve marketing objectives. It involves developing a cohesive strategy, crafting compelling content, and actively engaging with followers to build brand awareness and drive business results.",
+      "fullDescription2": "A key aspect of social media management is audience research and segmentation. By understanding their target audience's demographics, interests, and behavior, social media managers can tailor content to resonate with specific segments and maximize engagement.",
+      "features": [
+        "Content Creation",
+        "Community Engagement",
+        "Influencer Collaboration",
+        "Trend Monitoring",
+        "Analytics Tracking",
+        "Audience Targeting"
+      ],
+      "price": "Starting from Rs. 25,000/month",
+      "types": [
+        {
+          "title": "Facebook Marketing",
+          "description": "Grow your Facebook presence with targeted campaigns, community management, and engagement strategies to reach your target audience.",
+          "features": [
+            "Facebook Page Management",
+            "Ad Campaign Creation",
+            "Community Engagement",
+            "Analytics & Reporting"
+          ],
+          "price": "Starting from Rs. 20,000/month"
+        },
+        {
+          "title": "Instagram Marketing",
+          "description": "Create stunning visual content and build a loyal Instagram community through strategic posting, stories, reels, and influencer collaborations.",
+          "features": [
+            "Content Creation",
+            "Story & Reel Management",
+            "Hashtag Strategy",
+            "Influencer Partnerships"
+          ],
+          "price": "Starting from Rs. 20,000/month"
+        },
+        {
+          "title": "LinkedIn Marketing",
+          "description": "Establish your brand authority and connect with professionals through LinkedIn content marketing, engagement, and networking strategies.",
+          "features": [
+            "Profile Optimization",
+            "Content Publishing",
+            "Lead Generation",
+            "B2B Networking"
+          ],
+          "price": "Starting from Rs. 18,000/month"
+        }
+      ]
+    },
+    {
+      "id": "whatsapp-marketing",
+      "title": "WhatsApp Marketing",
+      "shortDesc": "Bulk + automation flows with 90% open rates.",
+      "icon": "MessageCircle",
+      "hue": 145,
+      "fullDescription": "WhatsApp marketing utilizes the popular messaging platform to connect with potential customers, engaging them through personalized messages, updates, and promotions. Leveraging WhatsApp's extensive user base, businesses can establish direct communication channels, fostering stronger relationships and driving conversions.",
+      "fullDescription2": "Through targeted messaging campaigns, companies can deliver tailored content, offers, and customer support, enhancing brand visibility and customer satisfaction. WhatsApp's multimedia capabilities allow for the creation of engaging content, including images, videos, and documents, enriching the marketing experience and capturing user attention.",
+      "features": [
+        "Bulk Message Sending Software",
+        "Direct Customer Engagement",
+        "Targeted Message Delivery",
+        "Enhanced Brand Visibility",
+        "90% Open Rates",
+        "Multimedia Support"
+      ],
+      "price": "Starting from Rs. 15,000/month",
+      "types": [
+        {
+          "title": "Bulk SMS & WhatsApp Messaging",
+          "description": "Send personalized bulk messages to thousands of customers with high delivery rates and minimal cost.",
+          "features": [
+            "Bulk Message Sending",
+            "Message Scheduling",
+            "Contact Management",
+            "Delivery Reports"
+          ],
+          "price": "Starting from Rs. 10,000/month"
+        },
+        {
+          "title": "WhatsApp Business Automation",
+          "description": "Automate customer interactions with chatbots, order confirmations, and customer support on WhatsApp.",
+          "features": [
+            "Chatbot Setup",
+            "Order Notifications",
+            "Customer Support",
+            "Response Automation"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        },
+        {
+          "title": "WhatsApp Broadcast Campaigns",
+          "description": "Launch targeted broadcast campaigns to reach your audience with promotional offers and updates.",
+          "features": [
+            "Broadcast List Management",
+            "Campaign Scheduling",
+            "A/B Testing",
+            "Analytics Tracking"
+          ],
+          "price": "Starting from Rs. 12,000/month"
+        }
+      ]
+    },
+    {
+      "id": "email-marketing",
+      "title": "E-Mail Marketing",
+      "shortDesc": "Email campaigns that drive engagement and conversions.",
+      "icon": "Mail",
+      "hue": 45,
+      "fullDescription": "Email marketing is a powerful digital marketing channel that allows businesses to communicate directly with customers and prospects. It involves sending targeted messages via email to nurture leads, promote products or services, and build long-term customer relationships.",
+      "fullDescription2": "Effective email marketing campaigns feature personalized content, compelling subject lines, and clear calls-to-action. With advanced segmentation, automation, and analytics, businesses can deliver the right message to the right audience at the right time, maximizing engagement and conversion rates.",
+      "features": [
+        "Email List Building",
+        "Campaign Automation",
+        "Personalization",
+        "A/B Testing",
+        "Detailed Analytics"
+      ],
+      "price": "Starting from Rs. 15,000/month",
+      "types": [
+        {
+          "title": "Newsletter Campaigns",
+          "description": "Build and maintain subscriber lists with regular newsletters that keep your audience engaged and informed.",
+          "features": [
+            "List Management",
+            "Template Design",
+            "Scheduling",
+            "Open Rate Tracking"
+          ],
+          "price": "Starting from Rs. 12,000/month"
+        },
+        {
+          "title": "Promotional Email Campaigns",
+          "description": "Create targeted promotional campaigns to drive sales and encourage customer action.",
+          "features": [
+            "Discount Campaigns",
+            "Product Launches",
+            "Flash Sales",
+            "Conversion Tracking"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        },
+        {
+          "title": "Marketing Automation",
+          "description": "Automate email sequences based on user behavior and triggers for personalized customer journeys.",
+          "features": [
+            "Automated Workflows",
+            "Behavioral Triggers",
+            "Lead Nurturing",
+            "Drip Campaigns"
+          ],
+          "price": "Starting from Rs. 18,000/month"
+        }
+      ]
+    },
+    {
+      "id": "app-development",
+      "title": "App Development",
+      "shortDesc": "Custom apps that engage users and drive business growth.",
+      "icon": "Smartphone",
+      "hue": 270,
+      "fullDescription": "App development creates mobile and web applications tailored to meet specific business needs and user requirements. From concept to deployment, our development process ensures high-quality, scalable applications with excellent performance and user experience.",
+      "fullDescription2": "We specialize in both iOS and Android development, as well as cross-platform solutions using modern frameworks. Our developers focus on clean code, security, and intuitive UI/UX design to create applications that users love.",
+      "features": [
+        "iOS Development",
+        "Android Development",
+        "Cross-Platform Apps",
+        "API Integration",
+        "App Store Deployment"
+      ],
+      "price": "Starting from Rs. 200,000",
+      "types": [
+        {
+          "title": "Native App Development",
+          "description": "Build native iOS and Android apps with optimal performance and device-specific features.",
+          "features": [
+            "iOS Development",
+            "Android Development",
+            "Native Performance",
+            "Device Integration"
+          ],
+          "price": "Starting from Rs. 250,000"
+        },
+        {
+          "title": "Cross-Platform Apps",
+          "description": "Develop apps for multiple platforms simultaneously using React Native and Flutter.",
+          "features": [
+            "React Native",
+            "Flutter Development",
+            "Code Reusability",
+            "Faster Development"
+          ],
+          "price": "Starting from Rs. 180,000"
+        },
+        {
+          "title": "Web Applications",
+          "description": "Create responsive web applications with modern frameworks and technologies.",
+          "features": [
+            "Progressive Web Apps",
+            "Real-time Features",
+            "Cloud Integration",
+            "Scalable Architecture"
+          ],
+          "price": "Starting from Rs. 150,000"
+        }
+      ]
+    },
+    {
+      "id": "ads-management",
+      "title": "Ads Management",
+      "shortDesc": "Strategic ad campaigns that maximize ROI and reach.",
+      "icon": "TrendingUp",
+      "hue": 15,
+      "fullDescription": "Digital advertising management involves creating, launching, and optimizing ad campaigns across multiple platforms including Google Ads, Facebook, Instagram, and TikTok. Strategic ad management ensures your message reaches the right audience at the right time.",
+      "fullDescription2": "Our expert team handles everything from campaign setup and audience targeting to continuous optimization and performance tracking. We use data-driven insights to improve ad performance and reduce costs while maximizing conversions.",
+      "features": [
+        "Google Ads Management",
+        "Facebook Ads",
+        "Instagram Ads",
+        "Audience Targeting",
+        "Performance Optimization"
+      ],
+      "price": "Starting from Rs. 25,000/month",
+      "types": [
+        {
+          "title": "Google Ads Campaigns",
+          "description": "Manage search and display ads to reach customers actively looking for your products.",
+          "features": [
+            "Search Ads",
+            "Display Ads",
+            "Keyword Bidding",
+            "Conversion Tracking"
+          ],
+          "price": "Starting from Rs. 20,000/month"
+        },
+        {
+          "title": "Social Media Ads",
+          "description": "Create targeted ads on Facebook, Instagram, and other social platforms.",
+          "features": [
+            "Facebook Ads",
+            "Instagram Ads",
+            "Audience Segmentation",
+            "Creative Testing"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        },
+        {
+          "title": "Retargeting Campaigns",
+          "description": "Re-engage users who have visited your website with targeted ads.",
+          "features": [
+            "Pixel Setup",
+            "Dynamic Retargeting",
+            "Sequential Messaging",
+            "Conversion Optimization"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        }
+      ]
+    },
+    {
+      "id": "pr-management",
+      "title": "PR Management",
+      "shortDesc": "Build brand reputation and media relationships.",
+      "icon": "Users",
+      "hue": 120,
+      "fullDescription": "Public Relations management focuses on building and maintaining a positive brand image and reputation. It involves strategic communication with media, stakeholders, and the public to promote your brand and manage potential crises.",
+      "fullDescription2": "Effective PR management enhances brand credibility, generates positive media coverage, and builds trust with your audience. Our PR experts develop comprehensive strategies that align with your business goals and communicate your brand's unique value proposition.",
+      "features": [
+        "Media Relations",
+        "Press Release Management",
+        "Crisis Communication",
+        "Brand Positioning",
+        "Reputation Management"
+      ],
+      "price": "Starting from Rs. 30,000/month",
+      "types": [
+        {
+          "title": "Media Relations",
+          "description": "Build relationships with journalists and media outlets to secure positive coverage.",
+          "features": [
+            "Press Release Distribution",
+            "Media Outreach",
+            "Journalist Relations",
+            "Coverage Tracking"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        },
+        {
+          "title": "Crisis Management",
+          "description": "Develop strategies to manage and respond to reputation threats.",
+          "features": [
+            "Crisis Response Plans",
+            "Statement Preparation",
+            "Media Monitoring",
+            "Reputation Recovery"
+          ],
+          "price": "Starting from Rs. 35,000/month"
+        },
+        {
+          "title": "Brand Positioning",
+          "description": "Create compelling brand narratives and positioning strategies.",
+          "features": [
+            "Brand Strategy",
+            "Messaging Development",
+            "Thought Leadership",
+            "Community Engagement"
+          ],
+          "price": "Starting from Rs. 30,000/month"
+        }
+      ]
+    },
+    {
+      "id": "software-development",
+      "title": "Software Development",
+      "shortDesc": "Custom software solutions tailored to your needs.",
+      "icon": "Code",
+      "hue": 240,
+      "fullDescription": "Custom software development creates tailored applications designed specifically for your business requirements. From startups to enterprises, we build scalable, secure, and efficient software solutions.",
+      "fullDescription2": "Our development process follows industry best practices with rigorous testing and quality assurance. We use modern technologies and frameworks to ensure your software is maintainable, performant, and future-proof.",
+      "features": [
+        "Custom Development",
+        "Cloud Solutions",
+        "API Development",
+        "Database Design",
+        "Security Implementation"
+      ],
+      "price": "Starting from Rs. 150,000",
+      "types": [
+        {
+          "title": "Enterprise Solutions",
+          "description": "Build scalable enterprise software for large organizations with complex requirements.",
+          "features": [
+            "Scalable Architecture",
+            "Integration Services",
+            "Data Security",
+            "24/7 Support"
+          ],
+          "price": "Starting from Rs. 250,000"
+        },
+        {
+          "title": "Startup MVP",
+          "description": "Develop Minimum Viable Products quickly for startups testing new ideas.",
+          "features": [
+            "Rapid Development",
+            "Cost Effective",
+            "Iterative Approach",
+            "Market Validation"
+          ],
+          "price": "Starting from Rs. 100,000"
+        },
+        {
+          "title": "Maintenance & Support",
+          "description": "Ongoing support and maintenance for your software systems.",
+          "features": [
+            "Bug Fixes",
+            "Performance Updates",
+            "Security Patches",
+            "Technical Support"
+          ],
+          "price": "Starting from Rs. 30,000/month"
+        }
+      ]
+    },
+    {
+      "id": "fan-page-management",
+      "title": "Fan Page Management",
+      "shortDesc": "Build and grow engaged communities around your brand.",
+      "icon": "Heart",
+      "hue": 0,
+      "fullDescription": "Fan page management involves creating, curating, and growing online communities across social media platforms. It builds brand loyalty and creates spaces where customers engage with your brand.",
+      "fullDescription2": "Our team handles content creation, community engagement, moderation, and growth strategies to build active, loyal communities. We focus on authentic interactions that foster brand advocacy and drive meaningful engagement.",
+      "features": [
+        "Page Setup & Optimization",
+        "Content Strategy",
+        "Community Engagement",
+        "Growth Management",
+        "Analytics & Reporting"
+      ],
+      "price": "Starting from Rs. 20,000/month",
+      "types": [
+        {
+          "title": "Facebook Community Management",
+          "description": "Build and nurture engaged communities on Facebook.",
+          "features": [
+            "Page Management",
+            "Content Creation",
+            "Member Engagement",
+            "Community Guidelines"
+          ],
+          "price": "Starting from Rs. 18,000/month"
+        },
+        {
+          "title": "Group Management",
+          "description": "Create exclusive groups to engage VIP customers and brand advocates.",
+          "features": [
+            "Group Setup",
+            "Discussion Moderation",
+            "Exclusive Content",
+            "Member Support"
+          ],
+          "price": "Starting from Rs. 15,000/month"
+        },
+        {
+          "title": "Community Growth",
+          "description": "Implement strategies to grow and expand your fan communities.",
+          "features": [
+            "Growth Hacking",
+            "Viral Campaigns",
+            "Member Recruitment",
+            "Retention Strategies"
+          ],
+          "price": "Starting from Rs. 25,000/month"
+        }
+      ]
+    },
+    {
+      "id": "youtube-management",
+      "title": "YouTube Management",
+      "shortDesc": "Create, grow, and monetize YouTube channels.",
+      "icon": "Play",
+      "hue": 0,
+      "fullDescription": "YouTube channel management encompasses content strategy, video production, optimization, and audience growth. YouTube is one of the most powerful platforms for reaching and engaging audiences with video content.",
+      "fullDescription2": "We handle everything from content planning and video production to SEO optimization and monetization. Our data-driven approach ensures your channel grows consistently and generates revenue through ads, sponsorships, and other opportunities.",
+      "features": [
+        "Channel Setup & Optimization",
+        "Video Production",
+        "SEO Optimization",
+        "Audience Growth",
+        "Monetization Strategies"
+      ],
+      "price": "Starting from Rs. 35,000/month",
+      "types": [
+        {
+          "title": "Channel Strategy & Setup",
+          "description": "Create and optimize YouTube channels for maximum discoverability.",
+          "features": [
+            "Channel Design",
+            "Branding",
+            "SEO Optimization",
+            "Playlist Creation"
+          ],
+          "price": "Starting from Rs. 25,000"
+        },
+        {
+          "title": "Content Production",
+          "description": "Produce high-quality video content optimized for YouTube's algorithm.",
+          "features": [
+            "Video Scripting",
+            "Filming & Editing",
+            "Thumbnail Design",
+            "Upload & Optimization"
+          ],
+          "price": "Starting from Rs. 40,000/month"
+        },
+        {
+          "title": "Growth & Monetization",
+          "description": "Grow your audience and implement monetization strategies.",
+          "features": [
+            "Audience Growth",
+            "Community Tab Management",
+            "Sponsorship Setup",
+            "Ad Revenue Optimization"
+          ],
+          "price": "Starting from Rs. 35,000/month"
+        }
+      ]
+    }
+  ]
+}
+
