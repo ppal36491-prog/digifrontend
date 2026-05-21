@@ -1,0 +1,15 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo background circle -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#667eea" stroke-width="2"/>
+  
+  <!-- Digi-Mate MD logo - simplified -->
+  <g transform="translate(50, 50) scale(1.5)">
+    <!-- M shape -->
+    <path d="M 10 35 L 10 10 L 25 25 L 40 10 L 40 35" stroke="#667eea" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- D shape -->
+    <path d="M 50 10 L 50 35 M 50 10 Q 65 10 65 22.5 Q 65 35 50 35" stroke="#764ba2" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Checkmark accent -->
+  <path d="M 70 80 Q 90 95 110 70" stroke="#667eea" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.7"/>
+</svg>
