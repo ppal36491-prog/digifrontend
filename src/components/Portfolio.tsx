@@ -8,7 +8,7 @@ import hrpayxImg from "@/assets/hrpayx.jpeg";
 import mailprimexImg from "@/assets/mailprimex.png";
 import eleinventoryImg from "@/assets/eleinventory.png";
 import trackvoroImg from "@/assets/trackvoro.png";
-import crystonaImg from "@/assets/crystona.png";
+import crystonaImg from "@/assets/CRYSTONA.png";
 
 const projects = [
   {
