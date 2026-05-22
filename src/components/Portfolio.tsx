@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 import { ExternalLink } from "lucide-react";
 
 const projects = [
-  { title: "HRPAYX", category: "Payroll · HR Solutions", hue: 220, tag: "HR Tech", url: "https://hrpayx.com/", image: "/src/assets/HRPAYXLOGO.JPG" },
-  { title: "MailPrimeX", category: "Email · Bulk Solutions", hue: 25, tag: "Marketing", url: "https://mailprimex.com/", image: "/src/assets/mailprimex.png" },
-  { title: "eleinventory", category: "Inventory · Management", hue: 145, tag: "Inventory", url: "https://eleinventory.com/", image: "/src/assets/eleinventory.png" },
-  { title: "TrackVoro", category: "Analytics · Tracking", hue: 265, tag: "Analytics", url: "https://trackvoro.com/", image: "/src/assets/trackvoro.png" },
-  { title: "CrystonaCRM", category: "CRM · Management", hue: 220, tag: "CRM", url: "https://crystonacrm.com/", image: "/src/assets/crystona.png" },
+  { title: "HRPAYX", category: "Payroll · HR Solutions", hue: 220, tag: "HR Tech", url: "https://hrpayx.com/", image: "../assets/HRPAYXLOGO.JPG" },
+  { title: "MailPrimeX", category: "Email · Bulk Solutions", hue: 25, tag: "Marketing", url: "https://mailprimex.com/", image: "../assets/mailprimex.png" },
+  { title: "eleinventory", category: "Inventory · Management", hue: 145, tag: "Inventory", url: "https://eleinventory.com/", image: "../assets/eleinventory.png" },
+  { title: "TrackVoro", category: "Analytics · Tracking", hue: 265, tag: "Analytics", url: "https://trackvoro.com/", image: "../assets/trackvoro.png" },
+  { title: "CrystonaCRM", category: "CRM · Management", hue: 220, tag: "CRM", url: "https://crystonacrm.com/", image: "../assets/crystona.png" },
 ];
 
 export function Portfolio() {
